@@ -28,16 +28,12 @@
 <rect x="265.991" y="40.2112" width="12.0973" height="5.18457" rx="1.44016" fill="white"/>
 </g>
 </g>
-<g filter="url(#filter4_dd_212_12020)">
+<g>
 <mask id="mask0_212_12020" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="-16" y="182" width="398" height="169">
 <rect width="397.348" height="167.348" transform="translate(-15.4696 182.711)" fill="white"/>
 <rect x="43.3149" y="241.496" width="279.431" height="49.4309" rx="18.5635" fill="black"/>
 </mask>
-<g mask="url(#mask0_212_12020)">
-<foreignObject x="-18.5636" y="183.485" width="403.536" height="173.536"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(30.94px);clip-path:url(#bgblur_3_212_12020_clip_path);height:100%;width:100%"></div></foreignObject><g filter="url(#filter5_f_212_12020)" data-figma-bg-blur-radius="61.8785">
-<rect x="43.3149" y="245.363" width="279.779" height="49.779" rx="18.5635" fill="black" fill-opacity="0.24" style="mix-blend-mode:hard-light"/>
-</g>
-</g>
+
 <g filter="url(#filter6_dd_212_12020)">
 <rect x="43.3149" y="241.496" width="280" height="50" rx="18.5635" fill="white" fill-opacity="0.6" style="mix-blend-mode:screen" shape-rendering="crispEdges"/>
 </g>
